@@ -1,0 +1,12 @@
+{
+  "args": {}, 
+  "headers": {
+    "Accept": "*/*", 
+    "Host": "httpbin.org", 
+    "Referer": "http://www.google.com/", 
+    "User-Agent": "curl/7.55.1", 
+    "X-Amzn-Trace-Id": "Root=1-5e340181-6a8aa87874a80140ec4fcb5c"
+  }, 
+  "origin": "204.14.72.20", 
+  "url": "http://httpbin.org/get"
+}
